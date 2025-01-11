@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jihan-febriharvianti-wirawan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/jihanfebriharvianti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ## 🚀 About Me
@@ -62,7 +62,7 @@ A social story-sharing platform with advanced features
 ## 📫 Let's Connect!
 
 Feel free to reach out for collaborations or just a friendly chat:
-- 💼 [LinkedIn](https://www.linkedin.com/in/jihan-febriharvianti-wirawan/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jihanfebriharvianti/)
 
 ---
 
