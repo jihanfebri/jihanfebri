@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jihan-febriharvianti-wirawan-b00b23200/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/jihan-febriharvianti-wirawan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ## 🚀 About Me
@@ -53,13 +53,6 @@ A social story-sharing platform with advanced features
 - 📍 Location-based features
 - 🔐 Secure authentication
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jihanfebri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihanfebri&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
 ## 🌱 Current Focus
 
 - Exploring Jetpack Compose for modern UI development
@@ -69,7 +62,7 @@ A social story-sharing platform with advanced features
 ## 📫 Let's Connect!
 
 Feel free to reach out for collaborations or just a friendly chat:
-- 💼 [LinkedIn](https://www.linkedin.com/in/jihan-febriharvianti-wirawan-b00b23200/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jihan-febriharvianti-wirawan/)
 
 ---
 
