@@ -1,7 +1,7 @@
 # <div align="center">👋 Hello, I'm Jihan Febriharvianti Wirawan!</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&width=435&lines=Mobile+Developer;Android+Development+Specialist;Kotlin+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&width=435&lines=Software+Developer;Mobile+Developer;Android+Development+Specialist;Kotlin+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
